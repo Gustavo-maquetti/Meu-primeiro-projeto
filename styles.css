@@ -1,0 +1,148 @@
+html{
+    background: linear-gradient(black,rgb(10, 0, 22));
+    
+}
+body{
+    margin: 0;
+}
+
+.logo {
+width:150px ;
+height: 150px;
+margin: 0%;
+
+}
+ 
+a{
+    color: rgb(6, 48, 87);
+}
+
+
+h1 {
+    color: rgb(3, 3, 90);
+    margin: 0;
+}
+
+.moto{
+    width: 100%;
+    height: 700px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    justify-content: space-evenly;
+}
+
+.moto {
+background-position: center;
+
+
+}
+
+div{
+color: rgb(5, 38, 66);
+margin: 0 0 15px 0 ;
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+column-gap: 33px;
+
+
+
+
+}
+    
+
+
+
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.video{
+height: 600px;
+width: 100%;
+justify-content: space-evenly;
+}
+
+#conhecidas{
+text-align: left;
+color: blue;
+
+}
+
+.p2 {
+    text-align: left;
+}
+ .p3{
+    text-align: left;
+ }
+ .p4 {
+    text-align: left;
+ }
+ .p5{
+    text-align: left;
+ }
+
+ .shadow{
+height: 100%;
+width: 50%;
+align-items: flex-end ;
+
+
+ }
+
+ #popularidade{
+color: rgb(15, 15, 185);
+font-size: 23;
+text-align: center;
+
+ }
+
+ #pilotagem{
+color: blue;
+font-size: 23px;
+text-align: center;
+ }
+
+ #nostalgia{
+color: blue;
+font-size: 23px;
+text-align: center;
+
+ }
+
+ .suzuki{
+    height: 100%;
+    width: 80%;
+    align-items: center;
+ }
+
+ 
+
+.kasinski{
+    height: 80%;
+    width: 50%;
+    align-items: center;
+}
+
+.footer{
+    background-color: black;
+}
+
+.footer{
+    margin: 0%;
+}
+
+.logob{
+height: 200px;
+align-items: center;
+
+}
+
+.container{
+    margin: 0%;
+}
